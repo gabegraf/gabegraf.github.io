@@ -431,16 +431,19 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-presented-my-research-from-the-first-semester-of-my-ph-d-at-the-center-for-hybrid-organic-inorganic-semiconductors-for-energy-choise-annual-meeting-in-golden-co",
+          title: 'Presented my research from the first semester of my Ph.D. at the Center...',
+          description: "",
+          section: "News",},{id: "news-happy-to-announce-that-i-will-be-in-berlin-this-summer-researching-in-the-lab-group-of-professor-eva-unger-through-the-nsf-ires-perovskites-program",
+          title: 'Happy to announce that I will be in Berlin this summer, researching in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
