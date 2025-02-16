@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Chemist | Ph.D. Student at Duke University
+subtitle: Computational Chemist  |  Ph.D. Student at Duke University
 
 profile:
   align: right

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-15 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Thrilled to have presented my research from the first semester of my Ph.D. at the Center for Hybrid Organic-Inorganic Semiconductors for Energy (CHOISE) annual meeting in Golden, CO.
