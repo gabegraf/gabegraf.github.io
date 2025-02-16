@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://gabegraf.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://gabrielgraf.com/sitemap.xml
