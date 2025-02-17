@@ -4,4 +4,4 @@ date: 2025-02-03
 inline: true
 related_posts: false
 ---
-Happy to announce that I will be in Berlin this summer, researching in the lab group of Professor Eva Unger through the NSF-IRES: Perovskites program.
+I'm happy to announce that I'll be conducting research with Professor Eva Unger at Humboldt-Universität zu Berlin this summer as part of the NSF-IRES: Perovskites program.
