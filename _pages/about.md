@@ -25,7 +25,7 @@ latest_posts:
 ---
 I'm a computational chemist passionate about using chemical theory to accelerate the design and discovery of novel materials for renewable energy and energy-efficient technologies.
 
-I'm am current working on my Ph.D. in the Thomas Lord Department of Mechanical Engineering and Materials Science at Duke University. I work as a graduate research assistant in the [Ab Initio Materials Simulations (AIMS) group](https://aims.pratt.duke.edu/), lead by Volker Blum. I am also a part of the [AI + Materials National Research Traineeship (aiM-NRT](https://aim-nrt.pratt.duke.edu/)) at Duke University, where I study methods to incorporate AI into the materials science research.
+I'm am current working on my Ph.D. in the Thomas Lord Department of Mechanical Engineering and Materials Science at Duke University. I work as a graduate research assistant in the [Ab Initio Materials Simulations (AIMS) group](https://aims.pratt.duke.edu/), lead by Volker Blum. I am also a part of the [AI + Materials National Research Traineeship (aiM-NRT)](https://aim-nrt.pratt.duke.edu/)) at Duke University, where I study methods to incorporate AI into the materials science research.
 
 My current research focuses on Hybrid Organic-Inorganic Perovskites. I am interested in finding new ways to enhance their stability and predict their phase transitions. I am also interested how subtle structural factors influence their electronic properties. Additionally, I am working to develop new functionalities for the all-electron, hybrid DFT software, [FHI-aims](https://fhi-aims.org/). 
 
