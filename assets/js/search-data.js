@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -438,8 +431,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-happy-to-announce-that-i-ll-be-conducting-research-with-professor-eva-unger-at-humboldt-universität-zu-berlin-this-summer-as-part-of-the-nsf-ires-perovskites-program",
           title: 'I’m happy to announce that I’ll be conducting research with Professor Eva Unger...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-diving-physiology",
+          title: 'Diving Physiology',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
