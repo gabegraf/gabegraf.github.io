@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Research Experience": [
+  "work": [
     {
       "name": "Thomas Lord Department of Mechanical Engineering and Materials Science, Duke University",
       "position": "Graduate Research Assistant | Ph.D. Student",
@@ -152,7 +152,7 @@
       ]
     }
   ],
-  "Research Advisors": [
+  "references": [
     {
       "name": "Professor Volker Blum",
       "icon": "fa-solid fa-laptop",
