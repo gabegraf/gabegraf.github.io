@@ -47,22 +47,15 @@
   ],
   "education": [
     {
-      "institution": "Duke University",
-      "location": "Durham, NC, USA",
-      "studyType": "Doctor of Philosophy, Ph.D.",
-      "startDate": "2024-08-01",
-      "endDate": "Present",
-      "courses": ["Statistical Mechanics", "Quantum Mechanics", "Solid-State Physics", "Computational Materials Science", "AI in Materials Science"]
-    {
       "institution": "Austin College",
-      "location": "Sherman, TX, USA",
+      "location": "Sherman, Texas, United States",
       "url": "https://www.austincollege.edu/",
-      "area": "",
-      "studyType": "Bachelor of Arts in Chemistry",
+      "area": "Chemistry",
+      "studyType": "Bachelor of Arts",
       "startDate": "2020-08-24",
       "endDate": "2024-05-17",
       "GPA": "3.97",
-      "courses": ["Organic Chemistry I/II", "Advanced Inorganic Chemistry", "Physical Chemistry I/II", "Linear Algebra", "Ordinary Differential Equations", 				  "Applied Analysis"]
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -76,11 +69,46 @@
   ],
   "certificates": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
