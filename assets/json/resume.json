@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Gabriel Graf",
-    "label": "Computational Chemist",
+    "label": "Theoretical/Computational Chemist  |  Ph.D. Student",
     "image": "",
     "email": "gabriel.graf@duke.edu",
     "phone": "(512)354-5844",
@@ -30,85 +30,92 @@
       "startDate": "2024-08-01",
       "endDate": "Present",
       "summary": "Studying computational materials science in the research group of Professor Volker Blum. ",
-      "highlights": ["Electronic Structure Theory"], ["Hybrid Organic-Inorganic Perovskites"], ["FHI-aims"], ["Chemical Dynamics"]
+      "highlights": ["Electronic Structure Theory", "Hybrid Organic-Inorganic Perovskites", "FHI-aims", "Chemical Dynamics"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
-    {
+   {
+      "institution": "Duke University",
+      "location": "Durham, NC, USA",
+      "studyType": "Doctor of Philosophy, Ph.D.",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "courses": ["Statistical Mechanics", "Quantum Mechanics", "Solid-State Physics", "Computational Materials Science", "AI in Materials Science"]
+     },
+   {
       "institution": "Austin College",
-      "location": "Sherman, Texas, United States",
+      "location": "Sherman, TX, USA",
       "url": "https://www.austincollege.edu/",
-      "area": "Chemistry",
-      "studyType": "Bachelor of Arts",
+      "area": "",
+      "studyType": "Bachelor of Arts in Chemistry",
       "startDate": "2020-08-24",
       "endDate": "2024-05-17",
       "GPA": "3.97",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Organic Chemistry I/II", "Advanced Inorganic Chemistry", "Physical Chemistry I/II", "Linear Algebra", "Ordinary Differential Equations", 				  "Applied Analysis"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "NSF Artificial Intelligence for Materials (aiM-NRT) Fellowship",
+      "date": "2024",
+      "awarder": "Duke University",
+      "url": "https://aim-nrt.pratt.duke.edu/",
+      "summary": "The AI for Understanding and Designing Materials (aiM) program is an NSF-funded graduate training program at Duke University that provides students with integrated training in both materials and computer science to advance the frontiers of research and training in this new convergent field."
+    },
+	{"title": "Phi Beta Kappa Honor Society Nomination",
+      "date": "2024",
+      "awarder": "Austin College",
+      "url": "https://www.pbk.org/",
+      "summary": "" 
+    },
+	{
+      "title": "Bradshaw Fredrick Armendt Fellowship",
+      "date": "2023",
+      "awarder": "Austin College",
+      "url": "",
+      "summary": "Awarded by Austin College to an outstanding student in the chemistry department."
+    },
+ 	{
+      "title": "Departmental Honors Program Nomination",
+      "date": "2023",
+      "awarder": "Austin College",
+      "url": "",
+      "summary": "Nominated by the faculty to design and undertake an honors thesis research project under the supervision of Dr. Andrew Carr."
+	},
+	{
+	"title": "Alpha Chi Honors Society Nomination",
+	"date": "2022",
+	"awarder": "Austin College",
+	"url": "https://alphachihonor.org/",
+	"summary": "Alpha Chi recognizes achievements in general scholarship. It invites university juniors, seniors, and graduate students who are in the top 10 percent of their class."
+	},
+	 {
+    "title": "Eagle Scout Award",
+    "date": "2018",
+    "awarder": "Boy Scouts of America",
+    "url": "",
+    "summary": "Awarded by Boy Scout Troop 365, in Round Rock, TX."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": ""
     }
   ],
   "publications": [
@@ -136,16 +143,13 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Fortran",
+        "Python",
+        "Bash"
       ]
     }
   ],
